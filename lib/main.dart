@@ -31,7 +31,7 @@ class AuthScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("my app")),
+      // appBar: AppBar(title: Text("my app")),
       body: SignInScreen(
         providers: [EmailAuthProvider()],
         headerBuilder: (context, Action, shrinkOffset) {
