@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259364934462",
+    "project_id": "ase-urhg",
+    "storage_bucket": "ase-urhg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259364934462:android:a746e95c8bd959d34d126f",
+        "android_client_info": {
+          "package_name": "com.example.myapp_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVTmOV5HDSI7hhhUJ0vzGQuo9CRdgIWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259364934462:android:35f217d7b424476c4d126f",
+        "android_client_info": {
+          "package_name": "com.example.test_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVTmOV5HDSI7hhhUJ0vzGQuo9CRdgIWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
